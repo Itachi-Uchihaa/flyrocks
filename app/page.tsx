@@ -27,6 +27,7 @@ export default function HomePage() {
       <Gallery />
       <Testimonials />
       <HomeSeoContent />
+      
       <CtaBanner />
     </SiteLayout>
   );
