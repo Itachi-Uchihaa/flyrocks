@@ -2,9 +2,9 @@ export const SITE = {
   name: "FLYROCKS Multi Services",
   shortName: "FLYROCKS",
   url: "https://www.flyrocks.fr",
-  phone: "01 00 00 00 00",
-  phoneHref: "tel:+33100000000",
-  email: "contact@flyrocks.fr",
+  phone: "+33 6 19 70 22 67",
+  phoneHref: "tel:+33619702267",
+  email: "voldizola1@gmail.com",
   locale: "fr_FR",
 } as const;
 
