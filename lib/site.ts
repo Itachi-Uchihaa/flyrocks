@@ -27,9 +27,9 @@ export const SERVICES = [
     label: "Déménagement",
     title: "Déménagement clé en main",
     description:
-      "Déménagement particuliers et entreprises : emballage, transport, manutention et installation.",
+      "Déménagement pour particuliers et entreprises : emballage, transport, manutention et installation.",
     longDescription:
-      "Déménagement particulier et entreprise : emballage, transport assuré, monte-meubles, garde-meubles. Transfert bureaux, entrepôts et longue distance. Chef de projet dédié pour les volumes importants.",
+      "Déménagement pour particuliers et entreprises : emballage, transport assuré, monte-meubles, garde-meubles. Transfert bureaux, entrepôts et longue distance. Chef de projet dédié pour les volumes importants.",
     image:
       "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?auto=format&fit=crop&w=1200&q=80",
   },
@@ -37,7 +37,7 @@ export const SERVICES = [
     slug: "nettoyage-entrepot",
     href: "/nettoyage-entrepot",
     label: "Nettoyage d'entrepôts",
-    title: "Nettoyage d'entrepôts industriel",
+    title: "Nettoyage industriel d'entrepôts",
     description:
       "Nettoyage approfondi d'entrepôts, zones logistiques et surfaces industrielles.",
     longDescription:

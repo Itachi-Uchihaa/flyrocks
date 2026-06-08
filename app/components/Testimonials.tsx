@@ -59,7 +59,7 @@ export function Testimonials() {
                   ))}
                 </div>
                 <p className="mt-5 flex-1 text-[15px] leading-relaxed text-foreground">
-                  &ldquo;{r.text}&rdquo;
+                  {`« ${r.text} »`}
                 </p>
                 <footer className="mt-8 border-t border-border pt-6">
                   <cite className="not-italic">

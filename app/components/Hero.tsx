@@ -20,13 +20,13 @@ import { IconArrow, IconCheck, IconShield } from "./Icons";
 const trustItems = [
   "Devis sous 2 heures",
   "Équipes certifiées & assurées",
-  "Intervention sous 48h",
+  "Intervention sous 48 h",
 ];
 
 const stats = [
   { value: "2 400+", label: "Clients accompagnés" },
   { value: "15+", label: "Années d'expertise" },
-  { value: "48h", label: "Délai d'intervention" },
+  { value: "48 h", label: "Délai d'intervention" },
   { value: "100%", label: "Devis transparents" },
 ];
 
@@ -86,9 +86,8 @@ export function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.35, duration: 0.6, ease: easeOut }}
             >
-              {SITE.name} accompagne vos projets de débarras, déménagement et
-              nettoyage d&apos;entrepôts avec rigueur, réactivité et un standard
-              de qualité premium.
+              <span className="font-semibold text-foreground">{SITE.shortName}</span>
+              {` accompagne vos projets de débarras, déménagement et nettoyage d'entrepôts avec rigueur, réactivité et exigence.`}
             </motion.p>
 
             <motion.div
@@ -184,7 +183,7 @@ export function Hero() {
               <p className="text-xs font-semibold uppercase tracking-wider text-muted">
                 Délai moyen
               </p>
-              <p className="mt-0.5 text-xl font-bold text-foreground">24–48h</p>
+              <p className="mt-0.5 text-xl font-bold text-foreground">24–48 h</p>
             </motion.div>
           </motion.div>
         </div>

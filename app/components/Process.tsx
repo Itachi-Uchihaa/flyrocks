@@ -10,7 +10,7 @@ const steps = [
   {
     step: "01",
     title: "Prise de contact",
-    desc: "Formulaire ou appel — réponse sous 2h.",
+    desc: "Formulaire ou appel — réponse sous 2 h.",
   },
   {
     step: "02",
@@ -38,7 +38,7 @@ export function Process() {
             light
             eyebrow="Notre méthode"
             title="Un processus structuré, de A à Z"
-            description="Chaque étape est documentée et suivie pour garantir transparence et sérénité."
+            description="Chaque étape est documentée et suivie pour garantir la transparence et la sérénité."
           />
         </Reveal>
 

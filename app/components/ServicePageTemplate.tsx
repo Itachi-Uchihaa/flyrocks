@@ -221,7 +221,7 @@ export function ServicePageTemplate({ data }: { data: ServicePageData }) {
             </p>
             <p className="mx-auto mt-3 max-w-lg text-sm text-muted">
               Découvrez également nos prestations complémentaires pour gérer l&apos;intégralité
-              de votre projet en un seul interlocuteur.
+              de votre projet avec un seul interlocuteur.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               {data.otherServices.map((s) => (

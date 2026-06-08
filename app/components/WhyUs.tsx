@@ -13,7 +13,7 @@ const pillars = [
   {
     icon: IconClock,
     title: "Réactivité opérationnelle",
-    desc: "Devis sous 2h, planification sous 48h. Une organisation pensée pour vos urgences.",
+    desc: "Devis sous 2 h, planification sous 48 h. Une organisation pensée pour vos urgences.",
   },
   {
     icon: IconShield,

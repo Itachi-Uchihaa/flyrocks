@@ -55,7 +55,7 @@ export const aboutValues = [
   },
   {
     title: "Transparence tarifaire",
-    desc: "Devis détaillés, forfaits compris, validation avant travaux supplémentaires.",
+    desc: "Devis détaillés et forfaitaires, validation avant tout travail supplémentaire.",
   },
   {
     title: "Réactivité terrain",

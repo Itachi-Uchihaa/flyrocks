@@ -30,7 +30,7 @@ export default function AboutPage() {
       <PageHero
         eyebrow="À propos"
         title="15 ans d'expertise au service de vos projets terrain"
-        description="FLYROCKS Multi Services réunit débarras, déménagement et nettoyage industriel au sein d'une structure unique — pour vous offrir un interlocuteur fiable, réactif et exigeant sur la qualité."
+        description="FLYROCKS Multi Services réunit le débarras, le déménagement et le nettoyage industriel au sein d'une structure unique — pour vous offrir un interlocuteur fiable, réactif et exigeant sur la qualité."
         breadcrumbs={[{ label: "À propos" }]}
       />
 

@@ -10,7 +10,7 @@ export const debarrasData: ServicePageData = {
   badge: "Débarras",
   title: "Débarras professionnel : maison, bureau, cave & succession",
   metaDescription:
-    "FLYROCKS assure le débarras de logements, caves, greniers, bureaux et locaux commerciaux en France. Tri sélectif, évacuation légale, devis gratuit sous 2h, intervention sous 48h.",
+    "FLYROCKS assure le débarras de logements, caves, greniers, bureaux et locaux commerciaux en France. Tri sélectif, évacuation légale, devis gratuit sous 2 h, intervention sous 48 h.",
   metaKeywords: [
     "débarras maison",
     "débarras appartement",
@@ -32,14 +32,14 @@ export const debarrasData: ServicePageData = {
   intro:
     "Le débarras est bien plus qu'un simple enlèvement de meubles : c'est une opération logistique qui demande méthode, respect des lieux et conformité réglementaire. Chez FLYROCKS Multi Services, chaque chantier débute par une évaluation précise du volume, des accès et de vos contraintes (délais, présence d'objets de valeur, coordination avec un notaire ou un propriétaire).",
   introExtended:
-    "Nous intervenons aussi bien pour les particuliers — successions, déménagements partiels, logements laissés occupés — que pour les professionnels : commerces, bureaux, entrepôts légers ou locaux à rénover. Notre objectif : vous rendre un espace vide, propre et immédiatement exploitable, sans charge mentale ni mauvaise surprise sur la facture.",
+    "Nous intervenons aussi bien pour les particuliers — successions, déménagements partiels, logements non vidés — que pour les professionnels : commerces, bureaux, entrepôts légers ou locaux à rénover. Notre objectif : vous rendre un espace vide, propre et immédiatement exploitable, sans charge mentale ni mauvaise surprise sur la facture.",
   benefits: [
     "Devis gratuit et détaillé transmis sous 2 heures ouvrées",
     "Intervention planifiable sous 48 h en Île-de-France et sur l'ensemble du territoire",
     "Tri sélectif systématique : réemploi, don, recyclage, filières agréées",
     "Manutention et protection des parties communes (ascenseur, cage d'escalier)",
     "Nettoyage de fin de chantier inclus sur demande",
-    "Attestation ou rapport d'intervention pour les dossiers succession / location",
+    "Attestation ou rapport d'intervention pour les dossiers de succession ou de location",
   ],
   situations: [
     {
@@ -50,7 +50,7 @@ export const debarrasData: ServicePageData = {
     {
       title: "Vidage de logement locatif",
       description:
-        "Libération rapide d'appartements ou maisons laissés occupés, en lien avec votre agence immobilière. Remise en état pour état des lieux ou relocation.",
+        "Libération rapide d'appartements ou de maisons non vidés, en lien avec votre agence immobilière. Remise en état pour état des lieux ou relocation.",
     },
     {
       title: "Caves, greniers & garages",

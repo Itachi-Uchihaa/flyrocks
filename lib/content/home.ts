@@ -3,7 +3,7 @@ import type { ContentSection } from "./types";
 export const homeMeta = {
   title: "FLYROCKS Multi Services | Débarras, Déménagement & Nettoyage d'entrepôts",
   description:
-    "FLYROCKS Multi Services : débarras, déménagement et nettoyage d'entrepôts pour particuliers et professionnels en France. Devis gratuit sous 2h, intervention sous 48h, équipes certifiées.",
+    "FLYROCKS Multi Services : débarras, déménagement et nettoyage d'entrepôts pour particuliers et professionnels en France. Devis gratuit sous 2 h, intervention sous 48 h, équipes certifiées.",
   keywords: [
     "FLYROCKS",
     "multi services",
@@ -19,7 +19,7 @@ export const homeMeta = {
 export const homeSections: ContentSection[] = [
   {
     id: "flyrocks-expert",
-    title: "FLYROCKS Multi Services : votre partenaire débarras, déménagement et nettoyage",
+    title: "FLYROCKS Multi Services : votre partenaire en débarras, déménagement et nettoyage d'entrepôts",
     paragraphs: [
       "FLYROCKS Multi Services est une entreprise française spécialisée dans trois métiers complémentaires du terrain : le débarras de logements et locaux professionnels, le déménagement de particuliers et d'entreprises, et le nettoyage d'entrepôts ainsi que de sites industriels. Cette complémentarité vous permet de confier à un seul interlocuteur plusieurs étapes d'un même projet — par exemple vider un local, le nettoyer et organiser le transfert du mobilier vers un nouveau site.",
       "Nous intervenons principalement en Île-de-France et dans les régions limitrophes, avec des missions programmées sur l'ensemble du territoire national pour les volumes importants. Chaque demande fait l'objet d'un devis gratuit, détaillé et transmis sous 2 heures ouvrées, sans engagement.",
@@ -53,8 +53,8 @@ export const homeSections: ContentSection[] = [
 
 export const homeFaq = [
   {
-    q: "Quels services propose FLYROCKS Multi Services ?",
-    a: "Nous proposons le débarras (logements, caves, bureaux, successions), le déménagement (particuliers et entreprises) et le nettoyage d'entrepôts et sites industriels. Ces prestations peuvent être commandées séparément ou combinées.",
+    q: "Quels services FLYROCKS Multi Services propose-t-il ?",
+    a: "Nous proposons le débarras (logements, caves, bureaux, successions), le déménagement (particuliers et entreprises) et le nettoyage d'entrepôts et de sites industriels. Ces prestations peuvent être commandées séparément ou combinées.",
   },
   {
     q: "Comment obtenir un devis gratuit ?",

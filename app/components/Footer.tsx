@@ -19,8 +19,7 @@ export function Footer() {
               </div>
             </Link>
             <p className="mt-5 max-w-sm text-sm leading-relaxed text-white/55">
-              Débarras, déménagement et nettoyage d&apos;entrepôts pour particuliers
-              et entreprises. Excellence opérationnelle, partout en France.
+              Débarras, déménagement et nettoyage d&apos;entrepôts pour particuliers et entreprises. Excellence opérationnelle, partout en France.
             </p>
             <div className="mt-6 flex flex-col gap-2 text-sm">
               <a
@@ -88,7 +87,7 @@ export function Footer() {
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-8 sm:flex-row">
           <p className="text-xs text-white/40">
-            © {new Date().getFullYear()} {SITE.name}. Tous droits réservés.
+            {`© ${new Date().getFullYear()} ${SITE.name}. Tous droits réservés.`}
           </p>
           <div className="flex gap-6 text-xs text-white/40">
             <Link href="#" className="hover:text-white">

@@ -10,7 +10,7 @@ export const nettoyageData: ServicePageData = {
   badge: "Nettoyage d'entrepôts",
   title: "Nettoyage d'entrepôts, zones logistiques & sites industriels",
   metaDescription:
-    "Nettoyage professionnel d'entrepôts et surfaces industrielles : sols, quais, racks, désinfection. Intervention hors horaires, contrats récurrents. Devis FLYROCKS sous 2h.",
+    "Nettoyage professionnel d'entrepôts et surfaces industrielles : sols, quais, racks, désinfection. Intervention hors horaires, contrats récurrents. Devis FLYROCKS sous 2 h.",
   metaKeywords: [
     "nettoyage entrepôt",
     "nettoyage industriel",
@@ -30,7 +30,7 @@ export const nettoyageData: ServicePageData = {
   imageAlt:
     "Nettoyage professionnel d'un entrepôt logistique par équipe FLYROCKS",
   intro:
-    "La propreté d'un site logistique ou industriel impacte directement la sécurité des équipes, la durée de vie des équipements et l'image auprès de vos propres clients. Poussières, traces de pneus, résidus d'emballage, graisses sur les sols : autant de risques (glissade, contamination, non-conformité audit) qu'un entretien structuré permet de maîtriser.",
+    "La propreté d'un site logistique ou industriel impacte directement la sécurité des équipes, la durée de vie des équipements et l'image auprès de vos propres clients. Poussières, traces de pneus, résidus d'emballage, graisses sur les sols : autant de risques (glissade, contamination, non-conformité lors des audits) qu'un entretien structuré permet de maîtriser.",
   introExtended:
     "FLYROCKS intervient sur les sols béton et résine, allées de circulation, quais de chargement, zones de picking, vestiaires, sanitaires et bureaux attenants. Nous adaptons la fréquence (ponctuelle, hebdomadaire, mensuelle) et les horaires (jour, nuit, week-end) pour ne pas perturber votre flux marchandises.",
   benefits: [
@@ -78,7 +78,7 @@ export const nettoyageData: ServicePageData = {
       id: "protocoles-industriels",
       title: "Protocoles de nettoyage adaptés à l'industrie",
       paragraphs: [
-        "Chaque site fait l'objet d'un cahier des charges : type de revêtement, zones à fort trafic chariots, présence de poussières alimentaires ou de particules, température ambiante. Nous sélectionnons les produits et le matériel (autolaveuse, brosse, aspirateur industriel, HP) en conséquence.",
+        "Chaque site fait l'objet d'un cahier des charges : type de revêtement, zones à fort trafic de chariots, présence de poussières alimentaires ou de particules, température ambiante. Nous sélectionnons les produits et le matériel (autolaveuse, brosse, aspirateur industriel, nettoyeur haute pression) en conséquence.",
         "Nos équipes sont briefées sur vos règles de sécurité : port des EPI, circulation dans les allées, consignation des zones en intervention.",
       ],
     },

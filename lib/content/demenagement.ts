@@ -65,7 +65,7 @@ export const demenagementData: ServicePageData = {
     {
       title: "Garde-meubles entre deux biens",
       description:
-        "Stockage sécurisé de vos biens entre la sortie et l'entrée des lieux, pour éviter un double manutention inutile.",
+        "Stockage sécurisé de vos biens entre la sortie et l'entrée des lieux, pour éviter une double manutention inutile.",
     },
     {
       title: "Déménagement partiel ou quelques meubles",
@@ -94,7 +94,7 @@ export const demenagementData: ServicePageData = {
       id: "assurance-demenagement",
       title: "Assurance et responsabilité lors du transport",
       paragraphs: [
-        "Vos biens sont transportés avec une couverture adaptée à la nature et à la valeur des biens déclarés. Nous documentons l'état des lieux à l'entrée et à la sortie lorsque le projet l'exige, et applions des protocoles de calage et d'arrimage dans nos véhicules.",
+        "Vos biens sont transportés avec une couverture adaptée à la nature et à la valeur des biens déclarés. Nous documentons l'état des lieux à l'entrée et à la sortie lorsque le projet l'exige, et appliquons des protocoles de calage et d'arrimage dans nos véhicules.",
         "En cas de question sur les objets de grande valeur (œuvres, équipements spécifiques), mentionnez-le lors du devis pour une solution sur mesure.",
       ],
     },
