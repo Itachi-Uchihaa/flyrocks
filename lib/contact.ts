@@ -75,11 +75,11 @@ function escapeHtml(value: string): string {
 
 /** Configuration Resend — modifier ici si besoin */
 export const CONTACT_CONFIG = {
-  resendApiKey: "re_dtztnx8x_8gPH9nqXL91nRVmLfDLFV4Ca",
+  resendApiKey: "re_RuGu9XWY_HveUXx2Aq8Wi8SYCmTibWyYZ",
   /** Expéditeur : onboarding@resend.dev en test, contact@flyrocks.fr une fois le domaine vérifié */
   from: "FLYROCKS <onboarding@resend.dev>",
   /** Destinataire des demandes du formulaire */
-  to: "voldizola1@gmail.com",
+  to: "patrickzola39@yahoo.fr",
 } as const;
 
 export function getContactRecipient(): string {
