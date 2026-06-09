@@ -10,7 +10,7 @@ export const debarrasData: ServicePageData = {
   badge: "Débarras",
   title: "Débarras professionnel : maison, bureau, cave & succession",
   metaDescription:
-    "FLYROCKS assure le débarras de logements, caves, greniers, bureaux et locaux commerciaux en France. Tri sélectif, évacuation légale, devis gratuit sous 2 h, intervention sous 48 h.",
+    "FLYROCKS assure le débarras de logements, caves, greniers, bureaux et locaux commerciaux en France. Tri sélectif, évacuation légale, devis gratuit sous 24 h, intervention sous 48 h.",
   metaKeywords: [
     "débarras maison",
     "débarras appartement",
@@ -34,7 +34,7 @@ export const debarrasData: ServicePageData = {
   introExtended:
     "Nous intervenons aussi bien pour les particuliers — successions, déménagements partiels, logements non vidés — que pour les professionnels : commerces, bureaux, entrepôts légers ou locaux à rénover. Notre objectif : vous rendre un espace vide, propre et immédiatement exploitable, sans charge mentale ni mauvaise surprise sur la facture.",
   benefits: [
-    "Devis gratuit et détaillé transmis sous 2 heures ouvrées",
+    "Devis gratuit et détaillé transmis sous 24 h",
     "Intervention planifiable sous 48 h en Île-de-France et sur l'ensemble du territoire",
     "Tri sélectif systématique : réemploi, don, recyclage, filières agréées",
     "Manutention et protection des parties communes (ascenseur, cage d'escalier)",
@@ -95,7 +95,7 @@ export const debarrasData: ServicePageData = {
       title: "Comment est calculé le prix d'un débarras ?",
       paragraphs: [
         "Le tarif dépend principalement du volume à évacuer (en m³), de la nature des objets (mobilier lourd, déchets spéciaux), de l'accessibilité (étage sans ascenseur, parking éloigné) et des prestations annexes (nettoyage, démontage, intervention urgente). Notre devis est forfaitaire et détaillé ligne par ligne : vous savez ce que vous payez avant le début des travaux.",
-        "Pour les successions ou les volumes importants, une visite préalable permet d'affiner le chiffrage. Contactez-nous : réponse sous 2 heures ouvrées, sans engagement.",
+        "Pour les successions ou les volumes importants, une visite préalable permet d'affiner le chiffrage. Contactez-nous : réponse sous 24 h, sans engagement.",
       ],
     },
   ],
@@ -149,7 +149,7 @@ export const debarrasData: ServicePageData = {
     },
     {
       q: "Le devis de débarras est-il gratuit ?",
-      a: "Oui, 100 % gratuit et sans engagement. Nous vous répondons sous 2 heures ouvrées avec une fourchette ou un devis ferme selon les informations fournies.",
+      a: "Oui, 100 % gratuit et sans engagement. Nous vous répondons sous 24 h avec une fourchette ou un devis ferme selon les informations fournies.",
     },
     {
       q: "Gérez-vous les encombrants volumineux (armoires, électroménager) ?",

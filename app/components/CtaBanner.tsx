@@ -14,7 +14,7 @@ type CtaBannerProps = {
 
 export function CtaBanner({
   title = "Obtenez votre devis personnalisé",
-  description = "Réponse sous 2 heures ouvrées. Sans engagement, 100 % gratuit.",
+  description = "Réponse sous 24 h. Sans engagement, 100 % gratuit.",
 }: CtaBannerProps) {
   return (
     <section className="section-pad">

@@ -18,7 +18,7 @@ import {
 import { IconArrow, IconCheck, IconShield } from "./Icons";
 
 const trustItems = [
-  "Devis sous 2 heures",
+  "Devis sous 24 h",
   "Équipes certifiées & assurées",
   "Intervention sous 48 h",
 ];

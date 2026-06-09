@@ -31,7 +31,7 @@ export default function ContactPage() {
       <PageHero
         eyebrow="Contact"
         title="Parlons de votre projet de débarras, déménagement ou nettoyage"
-        description="Remplissez le formulaire ci-dessous ou contactez-nous par téléphone. Notre équipe commerciale vous répond sous 2 heures ouvrées avec un devis gratuit et sans engagement."
+        description="Remplissez le formulaire ci-dessous ou contactez-nous par téléphone. Notre équipe commerciale vous répond sous 24 h avec un devis gratuit et sans engagement."
         breadcrumbs={[{ label: "Contact" }]}
       />
 
@@ -79,7 +79,7 @@ export default function ContactPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="h-1.5 w-1.5 rounded-full bg-brand" />
-                  Réponse sous 2 heures ouvrées
+                  Réponse sous 24 h
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="h-1.5 w-1.5 rounded-full bg-brand" />

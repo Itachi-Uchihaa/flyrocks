@@ -4,7 +4,7 @@ export const SITE = {
   url: "https://www.flyrocks.fr",
   phone: "+33 6 19 70 22 67",
   phoneHref: "tel:+33619702267",
-  email: "voldizola1@gmail.com",
+  email: "patrickzola39@yahoo.fr",
   locale: "fr_FR",
 } as const;
 
@@ -17,7 +17,7 @@ export const SERVICES = [
     description:
       "Vidage et débarras de logements, caves, bureaux et locaux commerciaux. Tri, évacuation et remise en état.",
     longDescription:
-      "Débarras de maison, appartement, cave, succession, bureaux et locaux commerciaux. Tri sélectif, évacuation vers filières agréées, nettoyage de fin de chantier. Devis gratuit sous 2 h, intervention sous 48 h.",
+      "Débarras de maison, appartement, cave, succession, bureaux et locaux commerciaux. Tri sélectif, évacuation vers filières agréées, nettoyage de fin de chantier. Devis gratuit sous 24 h, intervention sous 48 h.",
     image:
       "/VidageDebarras.jpg",
   },

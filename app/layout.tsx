@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     template: `%s | ${SITE.shortName}`,
   },
   description:
-    "FLYROCKS Multi Services — débarras, déménagement et nettoyage d'entrepôts pour particuliers et professionnels. Devis gratuit sous 2 h, intervention sous 48 h.",
+    "FLYROCKS Multi Services — débarras, déménagement et nettoyage d'entrepôts pour particuliers et professionnels. Devis gratuit sous 24 h, intervention sous 48 h.",
   openGraph: {
     siteName: SITE.name,
     locale: SITE.locale,

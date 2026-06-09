@@ -236,7 +236,7 @@ export function ServicePageTemplate({ data }: { data: ServicePageData }) {
 
       <CtaBanner
         title={`Un projet de ${data.badge.toLowerCase()} ?`}
-        description="Devis gratuit sous 2 heures. Intervention planifiable sous 48 h selon disponibilité."
+        description="Devis gratuit sous 24 h. Intervention planifiable sous 48 h selon disponibilité."
       />
     </>
   );

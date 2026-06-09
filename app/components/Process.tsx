@@ -10,7 +10,7 @@ const steps = [
   {
     step: "01",
     title: "Prise de contact",
-    desc: "Formulaire ou appel — réponse sous 2 h.",
+    desc: "Formulaire ou appel — réponse sous 24 h.",
   },
   {
     step: "02",

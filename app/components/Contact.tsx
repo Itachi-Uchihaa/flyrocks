@@ -28,7 +28,7 @@ export function Contact() {
                 Obtenez votre devis gratuit en quelques minutes
               </h2>
               <p className="mt-4 text-lg text-white/70">
-                Décrivez votre besoin — notre équipe vous recontacte sous 2 heures avec une proposition claire et sans engagement.
+                Décrivez votre besoin — notre équipe vous recontacte sous 24 h avec une proposition claire et sans engagement.
               </p>
 
               <div className="mt-10 space-y-4">

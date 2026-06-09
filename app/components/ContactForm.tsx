@@ -63,7 +63,7 @@ export function ContactForm() {
           </motion.span>
           <h3 className="mt-6 font-display text-2xl text-foreground">Message envoyé</h3>
           <p className="mt-3 max-w-sm text-muted">
-            Merci pour votre confiance. Un conseiller FLYROCKS vous recontacte sous 2 heures ouvrées.
+            Merci pour votre confiance. Un conseiller FLYROCKS vous recontacte sous 24 h.
           </p>
         </motion.div>
       ) : (

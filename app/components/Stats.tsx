@@ -11,7 +11,7 @@ export function Stats() {
               Besoin d&apos;une intervention rapide ?
             </h2>
             <p className="mt-2 text-white/85 max-w-md">
-              Devis gratuit sous 2 heures. Équipes disponibles 7j/7.
+              Devis gratuit sous 24 h. Équipes disponibles 7j/7.
             </p>
           </Reveal>
           <Reveal delay={2}>

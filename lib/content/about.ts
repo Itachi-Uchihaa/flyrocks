@@ -59,7 +59,7 @@ export const aboutValues = [
   },
   {
     title: "Réactivité terrain",
-    desc: "Réponse commerciale sous 2 h, planification sous 48 h selon disponibilité.",
+    desc: "Réponse commerciale sous 24 h, planification sous 48 h selon disponibilité.",
   },
   {
     title: "Responsabilité environnementale",

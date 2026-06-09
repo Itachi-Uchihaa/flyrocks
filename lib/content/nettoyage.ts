@@ -10,7 +10,7 @@ export const nettoyageData: ServicePageData = {
   badge: "Nettoyage d'entrepôts",
   title: "Nettoyage d'entrepôts, zones logistiques & sites industriels",
   metaDescription:
-    "Nettoyage professionnel d'entrepôts et surfaces industrielles : sols, quais, racks, désinfection. Intervention hors horaires, contrats récurrents. Devis FLYROCKS sous 2 h.",
+    "Nettoyage professionnel d'entrepôts et surfaces industrielles : sols, quais, racks, désinfection. Intervention hors horaires, contrats récurrents. Devis FLYROCKS sous 24 h.",
   metaKeywords: [
     "nettoyage entrepôt",
     "nettoyage industriel",
@@ -148,7 +148,7 @@ export const nettoyageData: ServicePageData = {
     },
     {
       q: "Le devis de nettoyage d'entrepôt est-il gratuit ?",
-      a: "Oui, l'audit et le devis sont gratuits et sans engagement. Réponse sous 2 heures ouvrées pour les demandes par formulaire ou téléphone.",
+      a: "Oui, l'audit et le devis sont gratuits et sans engagement. Réponse sous 24 h pour les demandes par formulaire ou téléphone.",
     },
     {
       q: "Proposez-vous le nettoyage après fin de bail ou déménagement ?",
